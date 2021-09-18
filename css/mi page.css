@@ -1,0 +1,73 @@
+*
+{
+    margin:0 ;
+padding: 0;
+}
+h1
+{font: bold 80px Old English Text MT, sans-serif; text-align: center;}
+h3 {
+    font: bold 30px verdana, sans-serif; text-align: center;}
+h4{font: bold 20px verdana, sans-serif; text-align: center;}
+body {
+    background-color: #6C7780 ;
+    text-align: center;
+    color: #000;
+}
+/* Estilo para la caja principal */
+ul
+{font: bold 20px verdana, sans-serif; text-align: center;}
+#agrupar {
+    width: 980px;
+    margin: 15px auto;
+    text-align: justify;
+    background-color: #fff;
+}
+.cabecera{
+    background-color: #0B2238;
+    border: 2px solid #000;
+    padding: 20px;
+}
+.Menu{
+    background-color: #98A6B3;
+    padding: 5px 15px;
+}
+.Menu li{
+    border-color: #000;
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px arial, sans-serif;
+}
+.principal {
+    float: left;
+    width: 660px;
+    margin: 20px;
+}
+.columna{
+    float: left;
+    width: 220px;
+    margin: -800px 0px ;
+    padding: 20px;
+    border-left: 4px solid #000;
+    background: #fff;
+}
+#pie{
+    clear: both;
+text-align: center;
+border-top: 4px solid #0B2238;
+}
+
+}
+#imagen
+{width: auto;
+    height: auto;
+    max-height: 10 px;
+    max-width: 10px;
+    background-color: #6C7780;
+    text-align: center;
+    color: black;
+}
+#pie2{
+    font: bold 100px verdana; sans-serif; text-align: left; 
+    background-color: #0B2238;
+}
